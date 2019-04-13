@@ -16,4 +16,4 @@ cd Clon-Yahoo
 
 chmod +x cloning.py
 
-python2 cloning.
+python2 cloning.py
